@@ -1,0 +1,55 @@
+.navbar {
+  background-color: skyblue;
+  color: black;
+  margin: auto;
+  padding: 10px;
+  min-height: 100px;
+  display: block !important;
+}
+
+.title{
+  padding: 15px;
+}
+
+.itemAmount{
+  padding: 20px;
+}
+
+.shoppingCart{
+  float: right;
+  padding-right: 100px;
+  padding-top: 50px;
+  top: 0px;
+  right: 0px;
+  position: absolute;
+  display: flex;
+}
+
+.cartIcon{
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+.GroupItem{
+  padding: 50px !important;
+}
+
+.quantityDisplay{
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  margin-top:60px;
+}
+
+.itemcontent{
+  display: flex;
+}
+
+.quantity{
+  padding: 15px 0 0 30px;
+}
+
+.updateButton{
+  height: 30px;
+  margin: 60px 0 0 20px;
+}
